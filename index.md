@@ -1,4 +1,5 @@
 ---
+Title: Home
 ---
-
-# tonic-starter
+# my-theme
+a fun, colourful theme (i think?)
